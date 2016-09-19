@@ -5,7 +5,7 @@ namespace Fastly\Adapter\Guzzle;
 use Fastly\Fastly as Fastly;
 use Fastly\Adapter\AdapterInterface;
 use GuzzleHttp\Client;
-use GuzzleHttp\Psr7\Request;
+use GuzzleHttp\Message\Request;
 
 /**
  * @author Gonzalo Vilaseca <gonzalo.vilaseca@reiss.com>

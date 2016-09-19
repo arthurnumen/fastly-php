@@ -1,5 +1,5 @@
 {
-    "name": "fastly/fastly",
+    "name": "arthurnumen/fastly",
     "license": "MIT",
     "type": "Library",
     "description": "Provides a PHP client for the Fastly API",
